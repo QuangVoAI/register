@@ -1,0 +1,10 @@
+{
+  "description": "MilkyBloom Toy Store website hosted on AWS CloudFront",
+  "owner": {
+    "username": "QuangVoAI",
+    "email": "vxq123@icloud.com"
+  },
+  "record": {
+    "CNAME": "d1qc4bz6yrxl8k.cloudfront.net"
+  }
+}
